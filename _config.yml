@@ -23,12 +23,12 @@ email: ""
 description: >- # this means to ignore newlines until "baseurl:"
   Description ..
 baseurl: ""
-url: ""
+url: https://pallgj.github.io
 twitter_username: ""
 github_username:  pallgj
 
 # Build settings
-theme: jekyll-theme-hydeout
+remote_theme: fongandrew/hydeout
 paginate: 5
 plugins:
   - jekyll-feed
